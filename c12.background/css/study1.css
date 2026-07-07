@@ -1,0 +1,9 @@
+*{margin:0;padding:0;}
+.a{
+    border:1px solid #000;
+    height:1500px;
+    background-color: aqua;
+    background-image: url("../img/cat.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
