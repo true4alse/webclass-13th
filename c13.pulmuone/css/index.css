@@ -1,0 +1,21 @@
+/* 기본 스타일 초기화 -> 내가 의도하지 않았는데 적용되어있는 스타일을 제거 */
+*{margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6{
+    font-weight: inherit;
+    font-size: inherit;
+}
+address{
+    font-style: inherit;
+}
+ul,ol{list-style: inherit;}
+a{color:inherit;text-decoration: inherit;}
+
+/* 공통 스타일 -> 공통적으로 적용되는 스타일을 설정 */
+html{
+    font-size: 20px;
+    font-family: 'Pretendard',"Noto Sans KR",sans-serif;
+}
+.title{
+    font-family: '풀무원';
+}
+
