@@ -1,0 +1,10 @@
+.a{
+    border:10px solid #000;
+    width:50%;
+    max-width:400px;
+    min-width:300px;
+    min-height:500px;
+    max-height:1000px;
+    overflow: auto;
+}
+*{margin:0;padding:0;}
