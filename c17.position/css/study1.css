@@ -4,8 +4,8 @@
     width:400px;
     height:400px;
     position: relative;
-    right:0px;
-    bottom:0px;
+    left:100px;
+    top:100px;
 }
 .box .a{
     width:100px;
@@ -28,6 +28,6 @@
 .box .c{
     background-color: green;
     position: fixed;
-    right:0;
-    top:0;
+    right:100px;
+    top:100px;
 }
